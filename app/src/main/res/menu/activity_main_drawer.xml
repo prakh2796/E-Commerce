@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group
+        android:id="@+id/group1"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_men"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Men" />
+        <item
+            android:id="@+id/nav_women"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Women" />
+        <item
+            android:id="@+id/nav_kids"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Kids" />
+        <item
+            android:id="@+id/nav_electronics"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Electronics" />
+    </group>
+
+    <group
+        android:id="@+id/group2"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_about_us"
+            android:icon="@drawable/ic_menu_share"
+            android:title="About Us"/>
+        <item
+            android:id="@+id/nav_contact_us"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Contact Us"/>
+    </group>
+
+    <!--<item android:title="Communicate">-->
+        <!--<menu>-->
+            <!--<item-->
+                <!--android:id="@+id/nav_share"-->
+                <!--android:icon="@drawable/ic_menu_share"-->
+                <!--android:title="Share" />-->
+            <!--<item-->
+                <!--android:id="@+id/nav_send"-->
+                <!--android:icon="@drawable/ic_menu_send"-->
+                <!--android:title="Send" />-->
+        <!--</menu>-->
+    <!--</item>-->
+
+</menu>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">E-Commerce</string>
+
+    <string name="facebook_app_id">183584202085218</string>
+    <string name="fb_login_protocol_scheme">fb183584202085218</string>
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Select Your Product</string>
+    <string name="slide_1_desc">You can choose from different varieties of products available in the store.</string>
+
+    <string name="slide_2_title">Great Discounts</string>
+    <string name="slide_2_desc">Best Discounts on every single selling goods or services at reduced prices.</string>
+
+    <string name="slide_3_title">Pay for the Product</string>
+    <string name="slide_3_desc">There are numerous payment methods available at the portal, to make it easier.</string>
+
+    <string name="slide_4_title">World Travel</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_home">Home</string>
+    <string name="nav_photos">Photos</string>
+    <string name="nav_movies">Movies</string>
+    <string name="nav_notifications">Notifications</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_about_us">About Us</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Home</item>
+        <item>Men</item>
+        <item>Women</item>
+        <item>Kids</item>
+        <item>Electronics</item>
+    </string-array>
+
+    <string name="activity_title_about_us">About Us</string>
+    <string name="activity_title_privacy_policy">Privacy Policy</string>
+    <string name="action_clear_all">Clear All</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_mark_all_read">Mark All as Read</string>
+    <string name="privacy_policy">Privacy Policy</string>
+    <string name="create_account"><u>Create Account</u></string>
+    <string name="click_here"><u>Click Here</u></string>
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "628122048048",
+    "project_id": "e-commerce-342ed"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:628122048048:android:ef40228153dcca1a",
+        "android_client_info": {
+          "package_name": "ecommerce.prakhar.example.com.e_commerce"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "628122048048-vjeqn3u1bg0hlqqdjsdbfqpcqvjg7eb0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ecommerce.prakhar.example.com.e_commerce",
+            "certificate_hash": "842CD422753774C9D6042B89D2B7C929B324A77B"
+          }
+        },
+        {
+          "client_id": "628122048048-lh8k2l71vhma1bjc1bcd98h5p2d6s6q2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxxP5QmjHZ7MOts6Z--fKLs3fkPK04rtQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
